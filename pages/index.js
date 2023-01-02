@@ -64,7 +64,7 @@ export default function Home() {
             Overview
           </h2>
           <p className={inter.className}>
-            Meet Reetail, a cutting-edge ERP solution that combines the simplicity of traditional software with the advanced features of modern technology. With Reetail, businesses can streamline their operations, optimize their workflows, and make informed decisions faster than ever before. Whether you're a small startup looking to grow or an established enterprise seeking to improve efficiency, Reetail has something to offer. Give it a try and see the difference it can make for your organization.
+            {'Meet Reetail, a cutting-edge ERP solution that combines the simplicity of traditional software with the advanced features of modern technology. With Reetail, businesses can streamline their operations, optimize their workflows, and make informed decisions faster than ever before. Whether you\'re a small startup looking to grow or an established enterprise seeking to improve efficiency, Reetail has something to offer. Give it a try and see the difference it can make for your organization.'}
           </p>
         </div>
 {/*
